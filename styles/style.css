@@ -119,6 +119,7 @@ body {
     font-family: var(--font-secundaria);
     font-size: 1.5rem;
     font-weight: 400;
+    bottom: 0;
 }
 
 @media (max-width: 1200px ) {
@@ -128,6 +129,7 @@ body {
 
     .cabecalho__menu {
         justify-content: center;
+        gap: 27px;
     }
     
     .apresentacao {
